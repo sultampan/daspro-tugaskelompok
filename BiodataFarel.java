@@ -1,8 +1,8 @@
-public class BiodataSultan {
+public class BiodataFarel {
     public static void main(String[] args) {
-        String nama = "Sultan";
-        String nim = "244107060151"; //menggunakan tipedata String
-        String hobi = "Membaca buku";
+        String nama = "Farel";
+        String nim = "...."; 
+        String hobi = "Bersepeda";
 
         System.out.println("Nama: " + nama);
         System.out.println("nim: " + nim);
